@@ -17,7 +17,7 @@ class MainClass {
       Console.WriteLine ("The color " + color + " is neutral");
     }
     else {
-      Console.WriteLine ("Unable to determine the color temperature for the color fuschia");
+      Console.WriteLine ("Unable to determine the color temperature for the color " + color);
     }
 
   }
